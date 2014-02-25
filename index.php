@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="style.css" />
-    <a href="index.php"><title>Mon Blog</title></a>
+    <title>Mon Blog</title>
     </head>
     <body>
         <div id="global">
